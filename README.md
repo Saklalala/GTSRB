@@ -58,7 +58,7 @@ The project uses a subset of the German Traffic Sign Recognition Benchmark (GTSR
 
 This project is licensed under the MIT License
 
-Acknowledgments:
+## Acknowledgments:
 University of Melbourne - COMP30027 Machine Learning Course
 GTSRB Dataset - German Traffic Sign Recognition Benchmark
 Kaggle - Competition platform and evaluation framework
